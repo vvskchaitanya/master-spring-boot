@@ -2,10 +2,10 @@
 This repository contians Spring Boot projects that help software engineers to understand and develop spring boot applications.
 
 ## Getting Started
-[1. Spring Boot Web Starter](#1.-spring-boot-web-starter)
-[2. Spring Boot Web API](#2.-spring-boot-web-api)
-[3. Spring Boot Data](#3.-spring-boot-data)
-[4. Spring Boot Testing](#4.-spring-boot-test)
+- [1. Spring Boot Web Starter](#1.-spring-boot-web-starter)
+- [2. Spring Boot Web API](#2.-spring-boot-web-api)
+- [3. Spring Boot Data](#3.-spring-boot-data)
+- [4. Spring Boot Testing](#4.-spring-boot-test)
 
 
 # 1. Spring Boot Web Starter
