@@ -14,10 +14,20 @@ A simple Spring Boot web application using Spring MVC.
 - Open https://start.spring.io/
 - Choose Build as Maven, Language as Java, Enter Project details, Choose jar and Generate Spring Boot Project
 - Unzip the downloaded project to specific location and import the project into your IDE (Eclipse / IntelliJ / VSCode)
-- Navigate into project directory and run below commands clean and build of project
+- Navigate into project directory
+```sh
+cd spring-boot-web-starter
+```
+- Clean the project
 ```sh
 mvn clean
+```
+- Intsall the project
+```sh
 mvn install
+```
+- Run the application
+```sh
 mvn spring-boot:run
 ```
 
