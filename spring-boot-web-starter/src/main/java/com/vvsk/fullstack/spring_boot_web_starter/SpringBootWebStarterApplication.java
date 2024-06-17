@@ -1,4 +1,4 @@
-package com.fullstack.spring_boot_web_starter;
+package com.vvsk.fullstack.spring_boot_web_starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -8,18 +8,18 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fullstack</groupId>
+	<groupId>com.vvsk.fullstack</groupId>
 	<artifactId>spring-boot-web-starter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-web-starter</name>
-	<description>Demo project for Spring Boot</description>
+	<description>First Project with Spring Boot Web</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
