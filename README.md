@@ -30,6 +30,7 @@ mvn install
 ```sh
 mvn spring-boot:run
 ```
+- Open the application in browser http://localhost:8080
 
 ## Spring Boot Web API 
 Building REST API using spring web module.
