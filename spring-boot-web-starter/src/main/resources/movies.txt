@@ -1,0 +1,7 @@
+Kalki,Telugu,20-6-2024,9,1000
+Pushpa,Telugu,20-12-2024,9,7000
+Devara,Telugu,20-10-2024,9,1000
+Indian 2,Telugu,20-10-2024,9,1000
+Indian 2,Hindi,20-10-2024,9,1000
+Pushpa 2,Hindi,20-10-2024,9,1000
+Avatar,English, 20-01-2010,9,10000

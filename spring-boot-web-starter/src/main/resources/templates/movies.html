@@ -1,0 +1,12 @@
+<h1>Movies List</h1>
+
+<table border="1">
+<tr><th>Name</th><th>Language</th><th>Date</th><th>Rating</th><th>Views</th>
+<tr th:each="movie:${movies}">
+	<td th:text="${movie.name}">
+	<td th:text="${movie.language}">
+	<td th:text="${movie.date}">
+	<td th:text="${movie.rating}">
+	<td th:text="${movie.views}">
+</tr>
+</table>
