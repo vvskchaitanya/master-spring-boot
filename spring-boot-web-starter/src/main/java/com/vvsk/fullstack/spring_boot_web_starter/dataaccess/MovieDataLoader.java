@@ -25,7 +25,7 @@ public class MovieDataLoader {
 	
 	public void loadMovies() throws IOException {
 		
-		List<String> moviesdata = Files.readAllLines(Paths.get("C:\\Users\\lenovo\\Desktop\\JAVA_FULLSTACK\\spring-boot-web-starter\\spring-boot-web-starter\\src\\main\\resources\\movies.txt"));
+		List<String> moviesdata = Files.readAllLines(Paths.get("/workspace/master-spring-boot/spring-boot-web-starter/src/main/resources/movies.txt"));
 		
 		moviesdata.forEach(m->{
 			
