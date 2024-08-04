@@ -7,6 +7,8 @@ import java.util.*;
 
 import org.springframework.stereotype.Component;
 
+import com.vvsk.fullstack.spring_boot_web_starter.classes.Movie;
+
 @Component
 public class MovieDataLoader {
 	

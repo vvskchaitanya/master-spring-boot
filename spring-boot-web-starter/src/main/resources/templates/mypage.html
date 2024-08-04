@@ -1,0 +1,17 @@
+<h1>Students</h1>
+
+<table border="1">
+<tr><th>Name</th><th>Course</th><th>Batch</th></tr>
+<tr th:each="student:${students}">
+	<td th:text="${student.name}">
+	<td th:text="${student.course}">
+	<td th:text="${student.batch}">
+</tr>
+</table>
+
+<style>
+	th,td{
+		width:200px;
+		padding:10px;
+	}
+</style>

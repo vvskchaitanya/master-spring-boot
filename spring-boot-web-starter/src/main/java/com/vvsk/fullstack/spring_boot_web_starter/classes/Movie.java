@@ -1,4 +1,4 @@
-package com.vvsk.fullstack.spring_boot_web_starter.dataaccess;
+package com.vvsk.fullstack.spring_boot_web_starter.classes;
 
 public class Movie {
 	

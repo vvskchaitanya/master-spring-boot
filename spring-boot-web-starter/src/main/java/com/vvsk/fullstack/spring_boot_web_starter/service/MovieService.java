@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.vvsk.fullstack.spring_boot_web_starter.dataaccess.Movie;
+import com.vvsk.fullstack.spring_boot_web_starter.classes.Movie;
 import com.vvsk.fullstack.spring_boot_web_starter.dataaccess.MovieDataLoader;
 
 @Service
