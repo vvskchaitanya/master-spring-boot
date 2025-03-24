@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootDataApplication<spring-boot-data>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fullstack.spring_boot_data.SpringBootDataApplication",
+            "projectName": "spring-boot-data",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

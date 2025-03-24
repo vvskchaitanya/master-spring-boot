@@ -1,7 +1,7 @@
 image: gitpod/workspace-mysql
 
 tasks:
-    - before: sdk install java 17.0.4.1-tem < /dev/null
+    - before: sdk install java
     - init: 
         cd spring-boot-web-starter
         mvn clean install
